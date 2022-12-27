@@ -24,11 +24,8 @@ n1.next = n2
 n2.next = n3
 n3.next = n4
 
-
 #put head in a temp variable for traversing to the last node
-
 #why traversing to last node?
-
 #becasue we need to start printing till the head is empty ie last node
 
 temp_node = ll.head
